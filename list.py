@@ -19,3 +19,6 @@ for image in images:
     list += f"![](https://istic.uk/{image})"
     list += "\n" * 16
 
+# Save it as imageList.md; this will overwrite the file if it already exists
+with open('imageList.md', 'w') as file:
+    file.write(list)

@@ -26,7 +26,7 @@ After Edwyn has performed in an establishment that serves alcohol or where alcoh
 Edwyn is also a notorious flirt, especially when it comes to rich and powerful women. When Edwyn is in the company of a beautiful, powerful or rich woman, Edwyn will flirt with that character and try and charm them. This behaviour may start a fight if an angry husband or suitor attempts to stop Edwyn or challenge him to a duel.
 If the player gets drunk in the company of Edwyn, there is a very strong chance that they will later realise that they are missing gold or equipment that Edwyn stole while the player was drunk. If the player gets so drunk that they fall asleep, Edwyn will rob the player blind and be gone when the player awakes. If the player falls asleep around Edwyn, for example at a campsite, Edwyn will try and rob the player at night and run away; there is a small chance that the player will be awoken by the attempt and catch Edwyn red-handed. 
 
-Illustration of Edwyn: ![](docs/Edwyn.webp) 
+Illustration of Edwyn: ![](https://istic.uk/Edwyn.webp) 
 
 Introduction scenarios:
 The player has the opportunity to meet Edwyn in two ways. 

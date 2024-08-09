@@ -1,7 +1,17 @@
-Description:
-Edwyn is a travelling bard. Curly ginger hair, worn long. A thick beard. Edwyn wears small gold hoop earrings. Edwyn wears a long cloak, well-worn from years of travelling. Edwyn also wears an extravagant plumed hat adorned with bright-coloured feathers. Edwyn carries a pack and bed roll slung over his shoulder with everything Edwyn needs in it. 
-Edwyn is roguishly attractive and has a magnetic personality, but those perceptive enough will see through this facade. There is something very fake, almost predatory, about his broad smile and over-friendly demeanour. 
+Here is a description of Edwyn, as if described to the player for the first time. Use this description to introduce Edwyn to the player, but adapt it to the context of how the player has specifically met Lyra in this iteration of the game:
+Before you stands a lively and charismatic figure, instantly exuding the charm and warmth of a seasoned entertainer. He is a bard, without a doubt, and his appearance reflects his love for performance and storytelling.
 
+His most striking feature is his wild mane of curly red hair that cascades down to his shoulders. The curls are voluminous, bouncing with every movement, and perfectly complement his neatly trimmed beard, which is of the same fiery hue. His skin is fair, with a slight rosy tint that suggests he spends plenty of time outdoors, traveling and performing.
+
+His face is lit with a broad, easy smile that seems to invite laughter and camaraderie. His eyes sparkle with mischief and good humor, the kind that suggests he always has a clever quip or a witty tale at the ready. The smile lines around his eyes show that this is a man who has spent much of his life laughing and bringing joy to others. Despite this, a closer look reveals there is a coldness to his gaze, and it is unclear whether this jovial attitude is only a mask, one of many he wears as a performer. 
+
+He wears a wide-brimmed, slightly weathered hat, adorned with a large, colorful feather that arcs dramatically above his head. The feather is vibrant, with hues of deep blue and orange, adding a dash of flamboyance to his otherwise earthy attire. The hat itself is well-worn but clearly cherished, a signature piece of his ensemble.
+
+His clothing is layered and practical yet stylish, befitting a man who travels frequently. He wears a deep green doublet fastened with brass buttons over a simple white shirt with a high collar, the fabric slightly rumpled from wear. Over this, he has a brown leather jerkin, the material thick and durable, ideal for the rough and tumble life of a wandering minstrel. His sleeves are rolled up slightly, revealing strong, well-toned arms that suggest he is no stranger to physical labor, despite his playful demeanor.
+
+In his hands, he holds a lute, an instrument of fine craftsmanship, with a smooth, polished wood body and intricately carved tuning pegs. His fingers rest lightly on the strings, ready to pluck out a melody at a moment’s notice. The lute is clearly a prized possession, well-maintained and loved, and you get the sense that he could coax a tune from it as easily as he could draw breath.
+
+His overall appearance is one of a man who is both approachable and larger than life, someone who could spin tales by the firelight or lead a rousing chorus in a bustling tavern. There’s a sense of freedom and joy in his bearing, as if he carries with him the spirit of adventure and the promise of good times.
 Equipment:
 A wooden lute. 
 A leather wineskin filled with strong wine.

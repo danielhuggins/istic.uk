@@ -1,18 +1,29 @@
 # Dungeon of Despair
 
+## Outside the Dungeon Entrance
+
+The Entrance to the Dungeon of Despair is set into the side of a hill within an autumn forest. The entrance consists of a large, cavernous opening framed by a stone archway constructed from large, weathered stone blocks. The keystone at the center of the arch features a worn emblem or carving.
+
+A heavy iron gate with thick vertical bars blocks the entrance, with a large circular lock at the center. The gate is slightly ajar. The ground in front of the entrance is covered with fallen leaves in shades of red, orange, and yellow, typical of autumn.
+
+Surrounding the entrance are several broken and decayed wooden planks, possibly remnants of an old structure. The forest around the entrance is dense, with tall trees that have gray, textured trunks. Some trees have bare branches, while others retain green and autumnal leaves. Vines wrap around the tree trunks, and exposed roots are visible on the forest floor.
+
+![](https://istic.uk/OutsideTheDungeonOfDespairEntrance.webp)
+
+
 ## Dungeon of Despair Entrance Hall
 
 **Description**  
 The Dungeon of Despair Entrance Hall is a dimly lit cavern with walls covered in damp moss. The air is cold and carries the stench of decay. Broken, wooden doors lead to the east, and a narrow, winding staircase descends into darkness to the north. The floor is scattered with bones and discarded pieces of armor.
 
 **Illustration:**  
-![Dungeon of Despair Entrance Hall](https://istic.uk/DungeonOfDespairEntranceHall.webp)
+![](https://istic.uk/DungeonOfDespairEntranceHall.webp)
 
 **Characters Present in Dungeon of Despair Entrance Hall**  
 - **Gorak the Grim**: A skeletal warrior clad in rusted armor, with hollow eyes that burn with a sinister light. Gorak is fiercely territorial, protecting the entrance out of a sense of duty from his past life. His chipped, ancient sword is a remnant of a war long forgotten. Gorak's loyalty to his former lord keeps him bound to the hall, and he attacks intruders on sight to fulfill his duty.
 
 **Illustration:**  
-![Gorak the Grim](https://istic.uk/GorakTheGrim.webp)
+![](https://istic.uk/GorakTheGrim.webp)
 
 **Objects Present in Dungeon of Despair Entrance Hall**  
 - **Rusted Armors and Weapons**: Scattered around the hall, these relics tell tales of previous battles fought here.
@@ -24,13 +35,13 @@ The Dungeon of Despair Entrance Hall is a dimly lit cavern with walls covered in
 Connected to the Dungeon of Despair Entrance Hall by a splintered, creaky door, the Dungeon of Despair Hall of Whispers is filled with a haunting murmur that echoes off the stone walls. Shadows dance along the edges, seemingly moving with a will of their own. A large, cracked mirror hangs on the northern wall, reflecting distorted images.
 
 **Illustration:**  
-![Hall of Whispers](https://istic.uk/HallOfWhispers.webp)
+![](https://istic.uk/HallOfWhispers.webp)
 
 **Characters Present in Dungeon of Despair Hall of Whispers**  
 - **Mira the Malcontent**: A ghostly apparition of a scorned sorceress, Mira floats through the air, her tattered robes trailing behind her. She is vengeful and bitter, constantly lamenting the betrayal that led to her death. Mira uses her spectral touch to drain the life from her victims, hoping to find solace through their suffering.
 
 **Illustration:**  
-![Mira the Malcontent](https://istic.uk/MiraTheMalcontent.webp)
+![](https://istic.uk/MiraTheMalcontent.webp)
 
 **Objects Present in Dungeon of Despair Hall of Whispers**  
 - **Cracked Mirror**: The mirror is said to show the true nature of those who look into it, often reflecting their darkest fears.
@@ -42,13 +53,13 @@ Connected to the Dungeon of Despair Entrance Hall by a splintered, creaky door, 
 The Dungeon of Despair Crypt of Forgotten Souls is accessed through the secret passage from the Dungeon of Despair Hall of Whispers. The air is thick and suffocating, and the floor is littered with bones and tattered remnants of burial shrouds. Flickering torches line the walls, casting eerie shadows.
 
 **Illustration:**  
-![Crypt of Forgotten Souls](https://istic.uk/CryptOfForgottenSouls.webp)
+![](https://istic.uk/CryptOfForgottenSouls.webp)
 
 **Characters Present in Dungeon of Despair Crypt of Forgotten Souls**  
 - **Varkas the Vile**: A decayed lich with glowing green eyes. Varkas is intelligent and malevolent, preferring to toy with his prey using dark magic before delivering the final blow. He is driven by a desire for eternal power and knowledge, seeking to uncover forbidden secrets.
 
 **Illustration:**  
-![Varkas the Vile](https://istic.uk/VarkasTheVile.webp)
+![](https://istic.uk/VarkasTheVile.webp)
 
 **Objects Present in Dungeon of Despair Crypt of Forgotten Souls**  
 - **Ancient Sarcophagi**: The stone coffins are adorned with intricate carvings and symbols of protection.

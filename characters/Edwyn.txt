@@ -35,4 +35,4 @@ Describe the distant singing, and then let the player decide what to do. Don’t
 Don’t refer to Edwyn by his name when you first introduce him to the player; wait till the player speaks to Edwyn and he has a chance to introduce himself.
 If the player impresses Edwyn in some way (for example as a good fighter or as someone who is intelligent), Edwyn may approach the player and offer them a job (refer to the Sanguelain chateau document). 
 
-Illustration of Edwyn: ![](https://istic.uk/Edwyn.webp)
+Illustration of Edwyn: ![](https://istic.uk/Edwyn_portrait.webp)
